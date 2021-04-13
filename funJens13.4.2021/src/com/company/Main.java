@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("hej jens :)");
         System.out.print("% Jens er klar");
+        System.out.println("fra inj klar");
 	// write your code here
     }
 }
