@@ -9,5 +9,6 @@ public class Main {
         System.out.println("fra inj klar");
 	// write your code here
         System.out.println("fra inj klar");
+        System.out.println("kfdjfl");
     }
 }
